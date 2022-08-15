@@ -7,5 +7,5 @@ project(algorithm)
 # 添加 answer 子目录
 #add_subdirectory(answer)
 
-add_executable(out main.cpp)
+add_executable(out 001_509_fib.cpp)
 #target_link_libraries(subdirectory libanswer)
